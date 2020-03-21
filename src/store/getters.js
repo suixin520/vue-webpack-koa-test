@@ -1,1 +1,1 @@
-export const SET_TEST = state => state.test
+export const test = state => state.test

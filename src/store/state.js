@@ -1,5 +1,5 @@
 const state = {
-  test: ''
+  test: 'vuex'
 }
 
 export default state
