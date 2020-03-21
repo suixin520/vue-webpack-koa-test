@@ -1,0 +1,1 @@
+export const SET_TEST = state => state.test
